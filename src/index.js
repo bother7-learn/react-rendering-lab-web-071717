@@ -7,6 +7,8 @@ import Pikachu from './components/Pikachu';
 import Animation from './components/Animation';
 import './style.css';
 
+
+
 ReactDOM.render(
   <div>
     <div className="container">
